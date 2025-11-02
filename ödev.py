@@ -24,7 +24,6 @@ print("Çevre:", 2 * (kisa + uzun))
 sayi = int(input("Bir sayı girin: "))
 print("Pozitif mi?:", sayi > 0)
 
-
 kelime = input("Bir kelime girin: ")
 print("İlk 3 harf:", kelime[0:3])
 print("Son 2 harf:", kelime[-2:])
